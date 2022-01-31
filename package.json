@@ -1,0 +1,23 @@
+{
+  "name": "aboutme",
+  "version": "1.0.0",
+  "description": "A simple application to brief about myself",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dineshanand001/aboutMe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dineshanand001/aboutMe/issues"
+  },
+  "homepage": "https://github.com/Dineshanand001/aboutMe#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
